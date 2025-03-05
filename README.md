@@ -11,10 +11,6 @@ Este portfólio foi criado para exibir meus trabalhos e habilidades de forma cla
 - **HTML**
 - **CSS**
 
-## Hospedagem
-
-## Como Contribuir
-
 Se você quiser contribuir para este projeto, sinta-se à vontade para fazer um fork e enviar um pull request. Toda contribuição é bem-vinda!
 
 Obrigada por visitar o meu portfólio! 😊
