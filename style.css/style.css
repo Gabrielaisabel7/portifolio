@@ -3,8 +3,8 @@
 :root {
     --cor-primaria: #1A1A1A;       
     --cor-secundaria: #FFFFFF;     
-    --cor-terciaria: #FF69B4;     
-    --cor-hover: #FF1493;      
+    --cor-terciaria: #AC1754;     
+    --cor-hover: #c44067;      
          --font-primaria: "krona One", sans-serif;
          --font-secundaria: "Montserrat", sans-serif;
 }
@@ -93,7 +93,7 @@ body {
     padding: 11px;
     text-align: center;
     font-family: var(--font-secundaria);
-    font-size: 1.1rem;
+    font-size: 0.8rem;
     font-weight: 400;
 }
 i {
